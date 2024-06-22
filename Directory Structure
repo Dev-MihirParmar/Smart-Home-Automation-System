@@ -1,0 +1,24 @@
+smart-home-automation/
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── redux/
+│   │   ├── App.js
+│   │   ├── index.js
+│   └── tailwind.config.js
+├── hardware/
+│   ├── arduino/
+│   ├── raspberry-pi/
+├── .gitignore
+├── docker-compose.yml
+├── README.md
+└── package.json
