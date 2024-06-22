@@ -24,7 +24,7 @@ This project is a Smart Home Automation System that allows users to control and 
 ## Installation
 
 ### Backend
-1. Clone the repository: `git clone https://github.com/yourusername/smart-home-automation.git`
+1. Clone the repository: `git clone https://github.com/StaticTesseract07/Smart-Home-Automation-System.git`
 2. Navigate to the backend directory: `cd smart-home-automation/backend`
 3. Install dependencies: `npm install`
 4. Set up environment variables (e.g., MongoDB URI, JWT secret)
